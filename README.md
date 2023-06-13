@@ -1,4 +1,4 @@
-# [RETROVIBE](https://retrovibes.herokuapp.com/home)
+# [RETROVIBE](https://retrovibes.herokuapp.com/home) (projet en équipe)
 
 Ceci est le repo de notre Front, le Back se trouve [ici](https://github.com/adatechschool/projet_collectif_vente_de_meubles_back-team_retrovibe)
 
